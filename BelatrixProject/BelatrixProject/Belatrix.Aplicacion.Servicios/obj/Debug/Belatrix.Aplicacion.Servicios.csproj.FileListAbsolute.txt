@@ -1,0 +1,13 @@
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Servicios\bin\Debug\Belatrix.Aplicacion.Servicios.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Servicios\bin\Debug\Belatrix.Aplicacion.Servicios.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Servicios\bin\Debug\Belatrix.Aplicacion.Interfaces.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Servicios\bin\Debug\Belatrix.DAO.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Servicios\bin\Debug\Belatrix.Entidades.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Servicios\bin\Debug\Belatrix.Proceso.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Servicios\bin\Debug\Belatrix.Aplicacion.Interfaces.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Servicios\bin\Debug\Belatrix.DAO.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Servicios\bin\Debug\Belatrix.Entidades.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Servicios\bin\Debug\Belatrix.Proceso.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Servicios\obj\Debug\Belatrix.Aplicacion.Servicios.csprojResolveAssemblyReference.cache
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Servicios\obj\Debug\Belatrix.Aplicacion.Servicios.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Servicios\obj\Debug\Belatrix.Aplicacion.Servicios.pdb

@@ -1,0 +1,16 @@
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\bin\Debug\Belatrix.Aplicacion.Interfaces.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\bin\Debug\Belatrix.Aplicacion.Servicios.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\bin\Debug\Belatrix.Entidades.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\bin\Debug\Belatrix.Proceso.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\bin\Debug\Belatrix.DAO.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\bin\Debug\Belatrix.Aplicacion.Interfaces.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\bin\Debug\Belatrix.Aplicacion.Servicios.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\bin\Debug\Belatrix.Entidades.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\bin\Debug\Belatrix.Proceso.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\bin\Debug\Belatrix.DAO.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\ConsoleApp\obj\Debug\ConsoleApp.pdb

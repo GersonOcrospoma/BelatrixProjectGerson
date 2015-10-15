@@ -1,0 +1,7 @@
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Proceso\bin\Debug\Belatrix.Proceso.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Proceso\bin\Debug\Belatrix.Proceso.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Proceso\bin\Debug\Belatrix.Entidades.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Proceso\bin\Debug\Belatrix.Entidades.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Proceso\obj\Debug\Belatrix.Proceso.csprojResolveAssemblyReference.cache
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Proceso\obj\Debug\Belatrix.Proceso.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Proceso\obj\Debug\Belatrix.Proceso.pdb

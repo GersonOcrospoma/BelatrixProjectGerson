@@ -1,0 +1,5 @@
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Entidades\bin\Debug\Belatrix.Entidades.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Entidades\bin\Debug\Belatrix.Entidades.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Entidades\obj\Debug\Belatrix.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Entidades\obj\Debug\Belatrix.Entidades.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Entidades\obj\Debug\Belatrix.Entidades.pdb

@@ -1,0 +1,5 @@
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.DAO\bin\Debug\Belatrix.DAO.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.DAO\bin\Debug\Belatrix.DAO.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.DAO\obj\Debug\Belatrix.DAO.csprojResolveAssemblyReference.cache
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.DAO\obj\Debug\Belatrix.DAO.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.DAO\obj\Debug\Belatrix.DAO.pdb

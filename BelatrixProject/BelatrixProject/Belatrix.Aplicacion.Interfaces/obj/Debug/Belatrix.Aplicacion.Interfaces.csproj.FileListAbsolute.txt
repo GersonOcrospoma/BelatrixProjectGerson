@@ -1,0 +1,7 @@
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Interfaces\bin\Debug\Belatrix.Aplicacion.Interfaces.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Interfaces\bin\Debug\Belatrix.Aplicacion.Interfaces.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Interfaces\bin\Debug\Belatrix.Entidades.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Interfaces\bin\Debug\Belatrix.Entidades.pdb
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Interfaces\obj\Debug\Belatrix.Aplicacion.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Interfaces\obj\Debug\Belatrix.Aplicacion.Interfaces.dll
+C:\Users\BlackDkey\Desktop\BelatrixProject\BelatrixProject\Belatrix.Aplicacion.Interfaces\obj\Debug\Belatrix.Aplicacion.Interfaces.pdb
